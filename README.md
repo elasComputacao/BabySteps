@@ -17,7 +17,7 @@ Para contribuir, adicione [aqui](galeria) um arquivo em markdown com o nome da m
 
 ### Frases inspiradoras
 "Mulheres que programam escrevem o futuro", assim iniciamos a nossa coletânea de frases inspiradoras, queremos que você se sinta bem e motivada ao ler cada uma delas. 
-Para contribuir, adicione uma nova frase [aqui](frases).
+Para contribuir, adicione uma nova frase [aqui](frases.md).
 
 ### Hello World
 Não poderia faltar a sua sorte na linguagem, deposite [aqui](HelloWorld) seu HelloWorld em qualquer linguagem.
