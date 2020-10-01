@@ -1,7 +1,7 @@
 # Hedy Lamarr
 
 <p  align="center">
-<img  src="https://pt.wikipedia.org/wiki/Hedy_Lamarr#/media/Ficheiro:Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg"  heigth="100"  width="700"/>
+<img  src="https://www.indiewire.com/wp-content/uploads/2018/05/hedy-lamarr-algiers-1938.jpg?resize=789,600"  heigth="100"  width="400"/>
 <p/>
 
 Durante a Segunda Guerra, Hedy Lamarr criou junto com o compositor e também inventor George Antheil um sofisticado aparelho de interferência em rádio para despistar radares nazistas, cuja patente foi feita em 1940 usando seu nome de registro (Hedwig Eva Maria Kiesler). A ideia surgiu quando a dupla estava fazendo um dueto ao piano e começaram a “conversar” entre si alterando os controles do instrumento. Ou seja, Lamarr descobriu que, se o emissor e o receptor mudassem constantemente de frequência, somente os dois poderiam se comunicar sem medo de serem interceptados pelo inimigo.
