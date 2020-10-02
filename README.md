@@ -13,7 +13,7 @@ Com base no nosso propósito como organização, vamos iniciar suas contribuiç�
 
 ### Mulheres incríveis
 Criamos uma galeria com mulheres incríveis, queremos que você conheça algumas das várias mulheres que fazem a diferença na nossa área.
-Para contribuir, adicione [aqui](Galeria) um arquivo em markdown com o nome da mulher escolhida, descrevendo quem ela é.
+Para contribuir, adicione [aqui](galeria) um arquivo em markdown com o nome da mulher escolhida, descrevendo quem ela é.
 
 ### Frases inspiradoras
 "Mulheres que programam escrevem o futuro", assim iniciamos a nossa coletânea de frases inspiradoras, queremos que você se sinta bem e motivada ao ler cada uma delas. 
