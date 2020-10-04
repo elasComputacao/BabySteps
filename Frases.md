@@ -12,4 +12,4 @@
 
 "Nunca permita que a imaginação limitada dos outros limite você." - Mae Jemison
 
-Se é uma boa ideia, vá em frente e faça porque é muito mais fácil pedir desculpas do que obter permissão - Grace Hopper 
+"Se é uma boa ideia, vá em frente e faça porque é muito mais fácil pedir desculpas do que obter permissão." - Grace Hopper 
