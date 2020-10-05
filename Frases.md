@@ -17,3 +17,5 @@
 “O talento nos é dado, mas é o trabalho que o transforma em genialidade.” - Anna Pavlova
 
 "Quando o mundo inteiro está em silêncio, até mesmo uma só voz se torna poderosa." - Malala Yousafzai
+
+"Você tem que agir como se fosse possível transformar radicalmente o mundo. E você tem que fazer isso o tempo todo." - Angela Davis
