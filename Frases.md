@@ -19,3 +19,7 @@
 "Quando o mundo inteiro está em silêncio, até mesmo uma só voz se torna poderosa." - Malala Yousafzai
 
 "Você tem que agir como se fosse possível transformar radicalmente o mundo. E você tem que fazer isso o tempo todo." - Angela Davis
+
+"Não espere por grandes líderes; faça você mesmo, pessoa a pessoa. Seja leal às ações pequenas porque é nelas que está a sua força." - Madre Teresa de Calcutá
+
+"Nunca estou realmente satisfeita quanto a entender alguma coisa; porque, até onde entendo, a minha compreensão só pode ser uma fração infinitesimal de tudo o que eu quero compreender." - Ada Lovelace
