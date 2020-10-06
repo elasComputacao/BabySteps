@@ -23,3 +23,5 @@
 "Não espere por grandes líderes; faça você mesmo, pessoa a pessoa. Seja leal às ações pequenas porque é nelas que está a sua força." - Madre Teresa de Calcutá
 
 "Nunca estou realmente satisfeita quanto a entender alguma coisa; porque, até onde entendo, a minha compreensão só pode ser uma fração infinitesimal de tudo o que eu quero compreender." - Ada Lovelace
+
+"O segredo do nosso sucesso é que nós nunca, nunca desistimos." - Wilma Mankiller
