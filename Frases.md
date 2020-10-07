@@ -27,3 +27,5 @@
 "O segredo do nosso sucesso é que nós nunca, nunca desistimos." - Wilma Mankiller
 
 “A primeira coisa sobre o empoderamento é entender que você tem o direito de estar envolvida. A segunda é que você tem contribuições importantes a fazer, e a terceira é que você tem de se arriscar para fazer essas contribuições.” - Mae Jemison
+
+"Pela amior parte da História, 'anônimo' foi uma mulher." - Viriginia Woolf
