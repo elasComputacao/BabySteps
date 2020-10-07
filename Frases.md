@@ -25,3 +25,5 @@
 "Nunca estou realmente satisfeita quanto a entender alguma coisa; porque, até onde entendo, a minha compreensão só pode ser uma fração infinitesimal de tudo o que eu quero compreender." - Ada Lovelace
 
 "O segredo do nosso sucesso é que nós nunca, nunca desistimos." - Wilma Mankiller
+
+“A primeira coisa sobre o empoderamento é entender que você tem o direito de estar envolvida. A segunda é que você tem contribuições importantes a fazer, e a terceira é que você tem de se arriscar para fazer essas contribuições.” - Mae Jemison
