@@ -26,6 +26,4 @@
 
 "O segredo do nosso sucesso é que nós nunca, nunca desistimos." - Wilma Mankiller
 
-“Não deixe que os outros a desencorajem nem que lhe digam que não vai conseguir. Na minha época, me diziam que as mulheres não podiam estudar química. Eu não via motivos para não podermos.” - Gertrude Elion 
-
 “A primeira coisa sobre o empoderamento é entender que você tem o direito de estar envolvida. A segunda é que você tem contribuições importantes a fazer, e a terceira é que você tem de se arriscar para fazer essas contribuições.” - Mae Jemison
