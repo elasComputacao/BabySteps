@@ -25,3 +25,5 @@
 "Nunca estou realmente satisfeita quanto a entender alguma coisa; porque, até onde entendo, a minha compreensão só pode ser uma fração infinitesimal de tudo o que eu quero compreender." - Ada Lovelace
 
 "O segredo do nosso sucesso é que nós nunca, nunca desistimos." - Wilma Mankiller
+
+“Nada jamais foi dado às minorias ou às mulheres. Foi necessário lutar para conseguir oportunidades iguais, e continuamos lutando hoje em dia.” - Annie Easley
