@@ -27,3 +27,5 @@
 "O segredo do nosso sucesso é que nós nunca, nunca desistimos." - Wilma Mankiller
 
 “A primeira coisa sobre o empoderamento é entender que você tem o direito de estar envolvida. A segunda é que você tem contribuições importantes a fazer, e a terceira é que você tem de se arriscar para fazer essas contribuições.” - Mae Jemison
+
+"Dizem para as garotas jovens que elas devem ser princesas frágeis. Isso é besteira. Eu me identifico muito mais com uma guerreira. Se eu fosse um princesa, seria uma princesa guerreira." - Emma Watson
