@@ -27,3 +27,5 @@
 "O segredo do nosso sucesso é que nós nunca, nunca desistimos." - Wilma Mankiller
 
 “Nada jamais foi dado às minorias ou às mulheres. Foi necessário lutar para conseguir oportunidades iguais, e continuamos lutando hoje em dia.” - Annie Easley
+
+"Temos de acreditar em nós mesmos ou mais ninguém acreditará;Temos de acompanhar nossas aspirações com competência,coragem e determinação para atingir o sucesso." - Rosalyn Yalow
