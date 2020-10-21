@@ -30,6 +30,8 @@
 
 "Gostaria que você soubesse que existe dentro de si uma força capaz de mudar sua vida, basta que lute e aguarde um novo amanhecer."  - Margaret Thatcher
 
-"Eu quero mudar o Brasil. Fora eu me sinto mais uma, aqui eu me sinto catalisadora de mudanças." - Camila Achuti
+"Eu quero mudar o Brasil. Fora eu me sinto mais uma, aqui eu me sinto catalisadora de mudanças." - Camila Achuti.
 
-"É preciso valorizar a falha, aprende3r com o erro – e conte para os outros para eles não cometerem o mesmo erro. A chance de inovadores errarem é maior." - Camila Achuti
+"É preciso valorizar a falha, aprender com o erro – e conte para os outros para eles não cometerem o mesmo erro. A chance de inovadores errarem é maior." - Camila Achuti.
+
+"E o mais bonito disso é que também é possível mudar o mundo escrevendo software." - Ana Paula Gomes.
