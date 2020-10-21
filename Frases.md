@@ -29,3 +29,5 @@
 “Nada jamais foi dado às minorias ou às mulheres. Foi necessário lutar para conseguir oportunidades iguais, e continuamos lutando hoje em dia.” - Annie Easley
 
 "Temos de acreditar em nós mesmos ou mais ninguém acreditará;Temos de acompanhar nossas aspirações com competência,coragem e determinação para atingir o sucesso." - Rosalyn Yalow
+
+"Acima de tudo não tenha medo dos momentos difíceis.O que há de melhor vem com eles." - Rita Levi
