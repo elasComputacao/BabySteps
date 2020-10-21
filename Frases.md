@@ -26,8 +26,17 @@
 
 "O segredo do nosso sucesso é que nós nunca, nunca desistimos." - Wilma Mankiller
 
-“Nada jamais foi dado às minorias ou às mulheres. Foi necessário lutar para conseguir oportunidades iguais, e continuamos lutando hoje em dia.” - Annie Easley
-
 "Temos de acreditar em nós mesmos ou mais ninguém acreditará;Temos de acompanhar nossas aspirações com competência,coragem e determinação para atingir o sucesso." - Rosalyn Yalow
 
 "Acima de tudo não tenha medo dos momentos difíceis.O que há de melhor vem com eles." - Rita Levi
+
+“A primeira coisa sobre o empoderamento é entender que você tem o direito de estar envolvida. A segunda é que você tem contribuições importantes a fazer, e a terceira é que você tem de se arriscar para fazer essas contribuições.” - Mae Jemison
+
+"Gostaria que você soubesse que existe dentro de si uma força capaz de mudar sua vida, basta que lute e aguarde um novo amanhecer."  - Margaret Thatcher
+
+"Eu quero mudar o Brasil. Fora eu me sinto mais uma, aqui eu me sinto catalisadora de mudanças." - Camila Achutti.
+
+"É preciso valorizar a falha, aprender com o erro – e conte para os outros para eles não cometerem o mesmo erro. A chance de inovadores errarem é maior." - Camila Achutti.
+
+"E o mais bonito disso é que também é possível mudar o mundo escrevendo software." - Ana Paula Gomes.
+
