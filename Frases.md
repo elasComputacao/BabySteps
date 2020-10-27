@@ -42,4 +42,4 @@
 
 "Não se limite. Muitas pessoas limitam-se ao que elas pensam que são capazes de fazer. Você pode ir tão longe quanto a sua mente permitir. Lembre-se, você tem o poder de alcançar tudo que acredita." - Mary Kay Ash
 
-
+"Julgo possuir a combinação mais singular de qualidades perfeitamente adequadas para me tornar, eminentemente, uma descobridora das realidades ocultas da natureza." - Ada Lovalace
