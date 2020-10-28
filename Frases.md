@@ -44,4 +44,4 @@
 
 "Julgo possuir a combinação mais singular de qualidades perfeitamente adequadas para me tornar, eminentemente, uma descobridora das realidades ocultas da natureza." - Ada Lovalace
 
-"Eu não tenho outro vestido além do que uso todos os dias. Se você for gentil o suficiente para me dar um, por favor faça com que ele seja prático e escuro para que eu possa colocá-la depois para ir ao laboratório." —  Marie Curie
+"⁠Você não pode esperar construir um mundo melhor sem melhorar as pessoas. Cada um de nós deve trabalhar para o nosso próprio aprimoramento." —  Marie Curie
