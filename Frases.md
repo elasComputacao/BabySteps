@@ -45,3 +45,6 @@
 "Julgo possuir a combinação mais singular de qualidades perfeitamente adequadas para me tornar, eminentemente, uma descobridora das realidades ocultas da natureza." - Ada Lovalace
 
 "⁠Você não pode esperar construir um mundo melhor sem melhorar as pessoas. Cada um de nós deve trabalhar para o nosso próprio aprimoramento." —  Marie Curie
+
+"Se encoraje através da sua capacidade de desenvolver quaisquer coisas que deseje, confiança em você 
+mesmo é fundamental." - Fernanda Sozinho
