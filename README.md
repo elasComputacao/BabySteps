@@ -16,7 +16,7 @@ Criamos uma galeria com mulheres incríveis, queremos que você conheça algumas
 Para contribuir, adicione [aqui](galeria) um arquivo em markdown com o nome da mulher escolhida, descrevendo quem ela é.
 
 ### Frases inspiradoras
-"Mulheres que programam escrevem o futuro", assim iniciamos a nossa coletânea de frases inspiradoras, queremos que você se sinta bem e motivada ao ler cada uma delas. 
+"Mulheres que programam escrevem o futuro", assim iniciamos a nossa coletânea com frases inspiradoras sobre **tecnologia** e **capacitação feminina**, queremos que você se sinta bem e motivada ao ler cada uma delas. 
 Para contribuir, adicione uma nova frase [aqui](Frases.md).
 
 ### Hello World
