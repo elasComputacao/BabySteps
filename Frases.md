@@ -23,3 +23,30 @@
 "Não espere por grandes líderes; faça você mesmo, pessoa a pessoa. Seja leal às ações pequenas porque é nelas que está a sua força." - Madre Teresa de Calcutá
 
 "Nunca estou realmente satisfeita quanto a entender alguma coisa; porque, até onde entendo, a minha compreensão só pode ser uma fração infinitesimal de tudo o que eu quero compreender." - Ada Lovelace
+
+"O segredo do nosso sucesso é que nós nunca, nunca desistimos." - Wilma Mankiller
+
+"Temos de acreditar em nós mesmos ou mais ninguém acreditará;Temos de acompanhar nossas aspirações com competência,coragem e determinação para atingir o sucesso." - Rosalyn Yalow
+
+"Acima de tudo não tenha medo dos momentos difíceis.O que há de melhor vem com eles." - Rita Levi
+
+“A primeira coisa sobre o empoderamento é entender que você tem o direito de estar envolvida. A segunda é que você tem contribuições importantes a fazer, e a terceira é que você tem de se arriscar para fazer essas contribuições.” - Mae Jemison
+
+"Gostaria que você soubesse que existe dentro de si uma força capaz de mudar sua vida, basta que lute e aguarde um novo amanhecer."  - Margaret Thatcher
+
+"Eu quero mudar o Brasil. Fora eu me sinto mais uma, aqui eu me sinto catalisadora de mudanças." - Camila Achutti.
+
+"É preciso valorizar a falha, aprender com o erro – e conte para os outros para eles não cometerem o mesmo erro. A chance de inovadores errarem é maior." - Camila Achutti.
+
+"E o mais bonito disso é que também é possível mudar o mundo escrevendo software." - Ana Paula Gomes.
+
+"Não se limite. Muitas pessoas limitam-se ao que elas pensam que são capazes de fazer. Você pode ir tão longe quanto a sua mente permitir. Lembre-se, você tem o poder de alcançar tudo que acredita." - Mary Kay Ash
+
+"Julgo possuir a combinação mais singular de qualidades perfeitamente adequadas para me tornar, eminentemente, uma descobridora das realidades ocultas da natureza." - Ada Lovalace
+
+"⁠Você não pode esperar construir um mundo melhor sem melhorar as pessoas. Cada um de nós deve trabalhar para o nosso próprio aprimoramento." —  Marie Curie
+
+"Se encoraje através da sua capacidade de desenvolver quaisquer coisas que deseje, confiança em você 
+mesmo é fundamental." - Fernanda Sozinho
+
+"Para mim, a programação é mais do que uma importante arte prática. Ela também é um empreendimento gigantesco nos fundamentos do conhecimento." - Grace Hopper 
