@@ -49,4 +49,4 @@
 "Se encoraje através da sua capacidade de desenvolver quaisquer coisas que deseje, confiança em você 
 mesmo é fundamental." - Fernanda Sozinho
 
- 
+"Para mim, a programação é mais do que uma importante arte prática. Ela também é um empreendimento gigantesco nos fundamentos do conhecimento." - Grace Hopper
