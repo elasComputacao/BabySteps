@@ -50,3 +50,5 @@
 mesmo é fundamental." - Fernanda Sozinho
 
 "Um ser humano deve transformar informação em inteligência ou conhecimento. Temos a tendência de esquecer que nenhum computador jamais fará uma pergunta nova." - Grace Hopper
+
+"Para mim, a programação é mais do que uma arte prática importante. Ele também é um empreendimento gigantesco nos fundamentos do conhecimento." - Grace Hopper
