@@ -48,3 +48,5 @@
 
 "Se encoraje através da sua capacidade de desenvolver quaisquer coisas que deseje, confiança em você 
 mesmo é fundamental." - Fernanda Sozinho
+
+"Um ser humano deve transformar informação em inteligência ou conhecimento. Temos a tendência de esquecer que nenhum computador jamais fará uma pergunta nova." - Grace Hopper
