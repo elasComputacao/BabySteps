@@ -1,7 +1,7 @@
 # 👶 BabySteps
 
 <p  align="center">
-<img  src="https://github.com/elasComputacao/Raio-X/blob/master/assets/logo%20elas.png?raw=true"  heigth="80"  width="180"/>
+<img  src="./assets/logo-elas.png"  heigth="80"  width="180"/>
 <p/>
 
 Aqui iniciaremos as suas primeiras contribuições na organização. Lembre-se de seguir o nosso [código de conduta](https://github.com/elasComputacao/Site/blob/master/codigo-de-conduta.md) ao contribuir. Antes de colocar a mão na massa, uma breve introdução:
