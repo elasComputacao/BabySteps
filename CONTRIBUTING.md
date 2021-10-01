@@ -4,9 +4,7 @@ Contribuições sempre serão bem vindas, sejam pequenas ou grandes. Veja abaixo
 
 ## Issues
 
-As issues são um espaço aberto para requisitar criação, mudança ou conserto. Também é livre para ser um espaço de discussão sobre as siglas, termos 
-e gírias da UFCG. É importante ter em mente que o tema da issue e das discussões sempre deve estar relacionado à universidade.
-
+As issues são um espaço aberto para requisitar criação, mudança ou conserto. 
 
 ## Como Contribuir
 
