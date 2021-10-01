@@ -61,10 +61,10 @@ Indo para página do seu fork, você irá visualizar um aviso solicitando que em
 
 - Esteja aberto a críticas construtivas e elogios :)
 
-[Tutorial mais detalhado](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/).
+- [Tutorial mais detalhado](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/).
 
 ## Indicações
 - Seja claro(a) nos seus commits.
 - Sempre que for mudar algo, verifica se é necessário mudar alguma documentação. É importante que tudo esteja atualizado.
 - Caso esteja tendo dificuldades de trabalhar com o git, contate alguém da equipe (nas issues ou no gitter) e peça ajuda.
-- 
+
