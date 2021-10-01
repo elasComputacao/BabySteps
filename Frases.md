@@ -52,3 +52,5 @@ mesmo é fundamental." - Fernanda Sozinho
 "Um ser humano deve transformar informação em inteligência ou conhecimento. Temos a tendência de esquecer que nenhum computador jamais fará uma pergunta nova." - Grace Hopper
 
 "Para mim, a programação é mais do que uma arte prática importante. Ele também é um empreendimento gigantesco nos fundamentos do conhecimento." - Grace Hopper
+
+"Fracassar é parte crucial do sucesso. Toda vez que você fracassa e se recupera, exercita perseverança, que é a chave da vida. Sua força está na habilidade de se recompor." – Michelle Obama
