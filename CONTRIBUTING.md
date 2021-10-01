@@ -1,4 +1,4 @@
-# Contributing
+# :pencil: Contributing
 
 Contribuições sempre serão bem vindas, sejam pequenas ou grandes. Veja abaixo as várias formas de contribuir conosco.
 
