@@ -53,4 +53,7 @@ mesmo é fundamental." - Fernanda Sozinho
 
 "Para mim, a programação é mais do que uma arte prática importante. Ele também é um empreendimento gigantesco nos fundamentos do conhecimento." - Grace Hopper
 
+"Devemos acreditar que somos talentosos para algumas coisas, e que essa coisa, a qualquer custo, deve ser alcançada." - Marie Curie
+
 "Fracassar é parte crucial do sucesso. Toda vez que você fracassa e se recupera, exercita perseverança, que é a chave da vida. Sua força está na habilidade de se recompor." – Michelle Obama
+
