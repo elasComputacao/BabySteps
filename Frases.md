@@ -57,3 +57,5 @@ mesmo é fundamental." - Fernanda Sozinho
 
 "Fracassar é parte crucial do sucesso. Toda vez que você fracassa e se recupera, exercita perseverança, que é a chave da vida. Sua força está na habilidade de se recompor." – Michelle Obama
 
+“A prática cria confiança. Então, a confiança lhe empodera.” – Simone Biles
+
