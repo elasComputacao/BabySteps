@@ -55,3 +55,6 @@ mesmo é fundamental." - Fernanda Sozinho
 
 "Devemos acreditar que somos talentosos para algumas coisas, e que essa coisa, a qualquer custo, deve ser alcançada." - Marie Curie
 
+"Fracassar é parte crucial do sucesso. Toda vez que você fracassa e se recupera, exercita perseverança, que é a chave da vida. Sua força está na habilidade de se recompor." – Michelle Obama
+
+"Nós não crescemos quando as coisas são fáceis;crescemos quando enfrentamos desafios" - Raymonda Yeh
