@@ -2,17 +2,17 @@
 
 "Mulheres que programam escrevem o futuro"
 
-"Não há limite para o que nós, como mulheres, podemos realizar." – Michelle Obama 
+"Não há limite para o que nós, como mulheres, podemos realizar." – Michelle Obama
 
 "Ensine uma mulher a programar e ela mudará o mundo"
 
 "Na vida, não existe nada a se temer, apenas a ser compreendido." - Marie Curie
 
-"Vá em frente, o mundo está esperando por você." -  Reshma, presidente executiva da organização sem fins lucrativos Girls Who Code, quando perguntada "Que conselho dá para uma menina do Brasil que quer aprender a programar?"
+"Vá em frente, o mundo está esperando por você." - Reshma, presidente executiva da organização sem fins lucrativos Girls Who Code, quando perguntada "Que conselho dá para uma menina do Brasil que quer aprender a programar?"
 
 "Nunca permita que a imaginação limitada dos outros limite você." - Mae Jemison
 
-"Se é uma boa ideia, vá em frente e faça porque é muito mais fácil pedir desculpas do que obter permissão." - Grace Hopper 
+"Se é uma boa ideia, vá em frente e faça porque é muito mais fácil pedir desculpas do que obter permissão." - Grace Hopper
 
 “O talento nos é dado, mas é o trabalho que o transforma em genialidade.” - Anna Pavlova
 
@@ -32,7 +32,7 @@
 
 “A primeira coisa sobre o empoderamento é entender que você tem o direito de estar envolvida. A segunda é que você tem contribuições importantes a fazer, e a terceira é que você tem de se arriscar para fazer essas contribuições.” - Mae Jemison
 
-"Gostaria que você soubesse que existe dentro de si uma força capaz de mudar sua vida, basta que lute e aguarde um novo amanhecer."  - Margaret Thatcher
+"Gostaria que você soubesse que existe dentro de si uma força capaz de mudar sua vida, basta que lute e aguarde um novo amanhecer." - Margaret Thatcher
 
 "Eu quero mudar o Brasil. Fora eu me sinto mais uma, aqui eu me sinto catalisadora de mudanças." - Camila Achutti.
 
@@ -44,9 +44,9 @@
 
 "Julgo possuir a combinação mais singular de qualidades perfeitamente adequadas para me tornar, eminentemente, uma descobridora das realidades ocultas da natureza." - Ada Lovalace
 
-"⁠Você não pode esperar construir um mundo melhor sem melhorar as pessoas. Cada um de nós deve trabalhar para o nosso próprio aprimoramento." —  Marie Curie
+"⁠Você não pode esperar construir um mundo melhor sem melhorar as pessoas. Cada um de nós deve trabalhar para o nosso próprio aprimoramento." — Marie Curie
 
-"Se encoraje através da sua capacidade de desenvolver quaisquer coisas que deseje, confiança em você 
+"Se encoraje através da sua capacidade de desenvolver quaisquer coisas que deseje, confiança em você
 mesmo é fundamental." - Fernanda Sozinho
 
 "Um ser humano deve transformar informação em inteligência ou conhecimento. Temos a tendência de esquecer que nenhum computador jamais fará uma pergunta nova." - Grace Hopper
@@ -58,3 +58,5 @@ mesmo é fundamental." - Fernanda Sozinho
 "Fracassar é parte crucial do sucesso. Toda vez que você fracassa e se recupera, exercita perseverança, que é a chave da vida. Sua força está na habilidade de se recompor." – Michelle Obama
 
 "Nós não crescemos quando as coisas são fáceis;crescemos quando enfrentamos desafios" - Raymonda Yeh
+
+“A felicidade pode ser encontrada mesmo nas horas mais difíceis, se você se lembrar de acender a luz”
