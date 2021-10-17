@@ -60,3 +60,5 @@ mesmo é fundamental." - Fernanda Sozinho
 "Nós não crescemos quando as coisas são fáceis;crescemos quando enfrentamos desafios" - Raymonda Yeh
 
 “A prática cria confiança. Então, a confiança lhe empodera.” – Simone Biles
+
+"Eu acho que é muito importante saber o que você quer fazer, entender onde você está indo, e fazer o seu melhor para alcançá-lo. Só quando usamos o nosso coração, e nos apaixonamos com o que estamos fazendo, podemos obter uma determinação." - Emma Watson
