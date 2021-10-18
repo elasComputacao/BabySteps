@@ -19,3 +19,6 @@ Katherine plotou cartas de navegação, orientando naves pelas estrelas em caso 
 Mais tarde, Katherine ainda trabalharia no programa dos ônibus espaciais, nos satélites de observação terrestres e na futura missão a Marte. 
 
 Em 2016, foi incluída na lista de cem mulheres mais inspiradoras e influentes pela BBC.
+
+Fontes:
+	- [Katherine Johnson](https://pt.wikipedia.org/wiki/Katherine_Johnson)
