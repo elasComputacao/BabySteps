@@ -60,3 +60,5 @@ mesmo é fundamental." - Fernanda Sozinho
 "Nós não crescemos quando as coisas são fáceis;crescemos quando enfrentamos desafios" - Raymonda Yeh
 
 “A prática cria confiança. Então, a confiança lhe empodera.” – Simone Biles
+
+“Se você não arriscar alguma coisa, você acaba arriscando ainda mais.” – Erica Jong
