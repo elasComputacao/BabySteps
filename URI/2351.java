@@ -2,7 +2,7 @@ import java.util.PriorityQueue;
 import java.util.Scanner;
 
 /*
-    URI Online Judge: task 2531 - Hotel Rewards
+    URI Online Judge: task 2351 - Hotel Rewards
 
     solution by alexandre corlet
  */
