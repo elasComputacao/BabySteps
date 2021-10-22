@@ -62,3 +62,5 @@ mesmo é fundamental." - Fernanda Sozinho
 “A prática cria confiança. Então, a confiança lhe empodera.” – Simone Biles
 
 “Se você não arriscar alguma coisa, você acaba arriscando ainda mais.” – Erica Jong
+
+“Eu não quero que o medo do fracasso me impeça de fazer o que realmente me importa.” – Emma Watson
