@@ -62,3 +62,6 @@ mesmo é fundamental." - Fernanda Sozinho
 “A prática cria confiança. Então, a confiança lhe empodera.” – Simone Biles
 
 “Se você não arriscar alguma coisa, você acaba arriscando ainda mais.” – Erica Jong
+
+“Você precisa acreditar em você quando ninguém mais acredita” – Serena Williams
+
