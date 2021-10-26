@@ -62,3 +62,5 @@ mesmo é fundamental." - Fernanda Sozinho
 “A prática cria confiança. Então, a confiança lhe empodera.” – Simone Biles
 
 “Se você não arriscar alguma coisa, você acaba arriscando ainda mais.” – Erica Jong
+
+"A arte desafia a tecnologia, e a tecnologia inspira a arte." John Lasster
