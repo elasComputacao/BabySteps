@@ -1,3 +1,4 @@
+#Deve ser rodado com a versão 3.8 do python ou superior para que funcione a notação de f-string
 idade = int(input(''))
 
 anos = idade / 365
