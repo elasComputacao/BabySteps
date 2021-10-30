@@ -66,3 +66,5 @@ mesmo é fundamental." - Fernanda Sozinho
 "Dê uma chance à Ciência da Computação. Está tudo bem se você não gostar, ou se acabar fazendo outra coisa. Mas você nunca saberá que gosta a não ser que dedique tempo e esforço para tentar. E se você gostar, compartilhe com outras pessoas. Vocês não fazem ideia de quantas comunidades incríveis existem para apoiar e encorajar mulheres a seguirem em frente, e isso é muito empoderador." – Terri Burns.
 
 "Eu aprendi que nunca somos pequenos demais para fazer a diferença" - Greta Thunberg
+
+“O poder não é dado a você. Pelo contrário, você precisa tomá-lo.” – Beyoncé Knowles
