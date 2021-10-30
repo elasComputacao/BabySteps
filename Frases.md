@@ -70,3 +70,5 @@ mesmo é fundamental." - Fernanda Sozinho
 “Eu não sigo as regras tradicionais. Por outro lado, eu lidero com o coração e não com a cabeça.” – Princess Diana
 
 “O poder não é dado a você. Pelo contrário, você precisa tomá-lo.” – Beyoncé Knowles
+
+“Nenhum país consegue realmente florescer se abafar o potencial feminino. Afinal, dessa maneira ele está se privando da contribuição de metade dos cidadãos.” – Michelle Obama
