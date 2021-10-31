@@ -78,3 +78,5 @@ mesmo é fundamental." - Fernanda Sozinho
 “Ninguém pode lhe fazer se sentir inferior sem o seu consentimento.” – Eleanor Roosevelt
 
 “Uma mulher forte olha firme para o problema e dá uma piscada de olho para ele.” – Gina Carey
+
+“Eu nunca sonhei com o sucesso. Eu trabalhei para tê-lo.” – Estée Lauder
