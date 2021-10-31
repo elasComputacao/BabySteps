@@ -76,3 +76,5 @@ mesmo é fundamental." - Fernanda Sozinho
 “O poder não é dado a você. Pelo contrário, você precisa tomá-lo.” – Beyoncé Knowles
 
 “Ninguém pode lhe fazer se sentir inferior sem o seu consentimento.” – Eleanor Roosevelt
+
+“Uma mulher forte olha firme para o problema e dá uma piscada de olho para ele.” – Gina Carey
