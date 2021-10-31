@@ -80,3 +80,5 @@ mesmo é fundamental." - Fernanda Sozinho
 “Uma mulher forte olha firme para o problema e dá uma piscada de olho para ele.” – Gina Carey
 
 “Eu nunca sonhei com o sucesso. Eu trabalhei para tê-lo.” – Estée Lauder
+
+“Você precisa ter confiança na sua habilidade. Em seguida, seja resistene o suficiente para cumprir com os seus objetivos.” – Rosalynn Carter
