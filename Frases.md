@@ -67,4 +67,10 @@ mesmo é fundamental." - Fernanda Sozinho
 
 "Eu aprendi que nunca somos pequenos demais para fazer a diferença" - Greta Thunberg
 
+“Eu não sigo as regras tradicionais. Por outro lado, eu lidero com o coração e não com a cabeça.” – Princess Diana
+
 “O poder não é dado a você. Pelo contrário, você precisa tomá-lo.” – Beyoncé Knowles
+
+“Muitas pessoas tem medo de falar o que elas querem. Logo, é extamente por isso que elas não conseguem o que elas desejam.” – Madonna
+“O poder não é dado a você. Pelo contrário, você precisa tomá-lo.” – Beyoncé Knowles
+
