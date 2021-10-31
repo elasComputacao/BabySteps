@@ -72,3 +72,5 @@ mesmo é fundamental." - Fernanda Sozinho
 “O poder não é dado a você. Pelo contrário, você precisa tomá-lo.” – Beyoncé Knowles
 
 “Muitas pessoas tem medo de falar o que elas querem. Logo, é extamente por isso que elas não conseguem o que elas desejam.” – Madonna
+“O poder não é dado a você. Pelo contrário, você precisa tomá-lo.” – Beyoncé Knowles
+
