@@ -62,3 +62,15 @@ mesmo é fundamental." - Fernanda Sozinho
 “A prática cria confiança. Então, a confiança lhe empodera.” – Simone Biles
 
 “Se você não arriscar alguma coisa, você acaba arriscando ainda mais.” – Erica Jong
+
+"Dê uma chance à Ciência da Computação. Está tudo bem se você não gostar, ou se acabar fazendo outra coisa. Mas você nunca saberá que gosta a não ser que dedique tempo e esforço para tentar. E se você gostar, compartilhe com outras pessoas. Vocês não fazem ideia de quantas comunidades incríveis existem para apoiar e encorajar mulheres a seguirem em frente, e isso é muito empoderador." – Terri Burns.
+
+"Eu aprendi que nunca somos pequenos demais para fazer a diferença" - Greta Thunberg
+
+“Eu não sigo as regras tradicionais. Por outro lado, eu lidero com o coração e não com a cabeça.” – Princess Diana
+
+“O poder não é dado a você. Pelo contrário, você precisa tomá-lo.” – Beyoncé Knowles
+
+“Muitas pessoas tem medo de falar o que elas querem. Logo, é extamente por isso que elas não conseguem o que elas desejam.” – Madonna
+“O poder não é dado a você. Pelo contrário, você precisa tomá-lo.” – Beyoncé Knowles
+
