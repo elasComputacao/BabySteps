@@ -72,5 +72,13 @@ mesmo é fundamental." - Fernanda Sozinho
 “O poder não é dado a você. Pelo contrário, você precisa tomá-lo.” – Beyoncé Knowles
 
 “Muitas pessoas tem medo de falar o que elas querem. Logo, é extamente por isso que elas não conseguem o que elas desejam.” – Madonna
+
 “O poder não é dado a você. Pelo contrário, você precisa tomá-lo.” – Beyoncé Knowles
 
+“Ninguém pode lhe fazer se sentir inferior sem o seu consentimento.” – Eleanor Roosevelt
+
+“Uma mulher forte olha firme para o problema e dá uma piscada de olho para ele.” – Gina Carey
+
+“Eu nunca sonhei com o sucesso. Eu trabalhei para tê-lo.” – Estée Lauder
+
+“Você precisa ter confiança na sua habilidade. Em seguida, seja resistene o suficiente para cumprir com os seus objetivos.” – Rosalynn Carter
