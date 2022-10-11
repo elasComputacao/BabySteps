@@ -82,3 +82,5 @@ mesmo é fundamental." - Fernanda Sozinho
 “Eu nunca sonhei com o sucesso. Eu trabalhei para tê-lo.” – Estée Lauder
 
 “Você precisa ter confiança na sua habilidade. Em seguida, seja resistene o suficiente para cumprir com os seus objetivos.” – Rosalynn Carter
+
+“Os meus maiores sucessos chegaram no seguimento de grandes fracassos.” – Barbara Corcoran
