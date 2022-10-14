@@ -84,3 +84,5 @@ mesmo é fundamental." - Fernanda Sozinho
 “Você precisa ter confiança na sua habilidade. Em seguida, seja resistene o suficiente para cumprir com os seus objetivos.” – Rosalynn Carter
 
 “Os meus maiores sucessos chegaram no seguimento de grandes fracassos.” – Barbara Corcoran
+
+“Sempre fiz algo que eu achava que estava pouco preparada para fazer. Quando você tem um momento de incerteza mas persiste, é aí que você consegue avançar.” – Marissa Mayer
