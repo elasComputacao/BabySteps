@@ -86,3 +86,5 @@ mesmo é fundamental." - Fernanda Sozinho
 “Os meus maiores sucessos chegaram no seguimento de grandes fracassos.” – Barbara Corcoran
 
 “Sempre fiz algo que eu achava que estava pouco preparada para fazer. Quando você tem um momento de incerteza mas persiste, é aí que você consegue avançar.” – Marissa Mayer
+
+“Uma coisa que as mulheres têm de aprender é que ninguém te dá o poder de bandeja. Você tem de agarrá-lo.” – Roseanne Barr
