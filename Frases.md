@@ -1,5 +1,7 @@
 # Frases inspiradoras
 
+"Que os mortos me ajudem a suportar o quase insuportável, já que de nada me valem os vivos." - Clarisse Lispector
+
 "Mulheres que programam escrevem o futuro"
 
 "Não há limite para o que nós, como mulheres, podemos realizar." – Michelle Obama 
