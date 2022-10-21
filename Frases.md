@@ -1,5 +1,7 @@
 # Frases inspiradoras
 
+"Que os mortos me ajudem a suportar o quase insuportável, já que de nada me valem os vivos." - Clarisse Lispector
+
 "Mulheres que programam escrevem o futuro"
 
 "Não há limite para o que nós, como mulheres, podemos realizar." – Michelle Obama 
@@ -66,3 +68,25 @@ mesmo é fundamental." - Fernanda Sozinho
 "Dê uma chance à Ciência da Computação. Está tudo bem se você não gostar, ou se acabar fazendo outra coisa. Mas você nunca saberá que gosta a não ser que dedique tempo e esforço para tentar. E se você gostar, compartilhe com outras pessoas. Vocês não fazem ideia de quantas comunidades incríveis existem para apoiar e encorajar mulheres a seguirem em frente, e isso é muito empoderador." – Terri Burns.
 
 "Eu aprendi que nunca somos pequenos demais para fazer a diferença" - Greta Thunberg
+
+“Eu não sigo as regras tradicionais. Por outro lado, eu lidero com o coração e não com a cabeça.” – Princess Diana
+
+“O poder não é dado a você. Pelo contrário, você precisa tomá-lo.” – Beyoncé Knowles
+
+“Muitas pessoas tem medo de falar o que elas querem. Logo, é extamente por isso que elas não conseguem o que elas desejam.” – Madonna
+
+“O poder não é dado a você. Pelo contrário, você precisa tomá-lo.” – Beyoncé Knowles
+
+“Ninguém pode lhe fazer se sentir inferior sem o seu consentimento.” – Eleanor Roosevelt
+
+“Uma mulher forte olha firme para o problema e dá uma piscada de olho para ele.” – Gina Carey
+
+“Eu nunca sonhei com o sucesso. Eu trabalhei para tê-lo.” – Estée Lauder
+
+“Você precisa ter confiança na sua habilidade. Em seguida, seja resistene o suficiente para cumprir com os seus objetivos.” – Rosalynn Carter
+
+“Os meus maiores sucessos chegaram no seguimento de grandes fracassos.” – Barbara Corcoran
+
+“Sempre fiz algo que eu achava que estava pouco preparada para fazer. Quando você tem um momento de incerteza mas persiste, é aí que você consegue avançar.” – Marissa Mayer
+
+“Uma coisa que as mulheres têm de aprender é que ninguém te dá o poder de bandeja. Você tem de agarrá-lo.” – Roseanne Barr
