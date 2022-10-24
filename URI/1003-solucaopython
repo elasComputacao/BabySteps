@@ -1,5 +1,0 @@
-numero1 = int(input())
-numero2 = int(input())
-
-
-print(f'SOMA = {numero1 + numero2}')
